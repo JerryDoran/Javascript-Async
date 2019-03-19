@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 const posts = [
   {title: 'Post One', body: 'This is post one'},
   {title: 'Post Two', body: 'This is post two'}
@@ -7,10 +9,10 @@ function getPosts() {
   setTimeout(function() {
     let output = '';
     posts.forEach((post, index) => {
-      output += `<li>${post.title} at index ${index}</li> `
+      output += `<li>${post.title} at index ${index}</li>`;
     });
     document.body.innerHTML = output;
-  }, 1000)
+  }, 1000);
 
   // can also use ES6 version with arrow function
   // setTimeout(() => {
