@@ -1,0 +1,20 @@
+{
+  "name": "javascript-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quick-promise",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disneyfan9184/Javascript-Async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/disneyfan9184/Javascript-Async/issues"
+  },
+  "homepage": "https://github.com/disneyfan9184/Javascript-Async#readme"
+ 
+}
