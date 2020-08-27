@@ -15,6 +15,6 @@
   "bugs": {
     "url": "https://github.com/disneyfan9184/Javascript-Async/issues"
   },
-  "homepage": "https://github.com/disneyfan9184/Javascript-Async#readme"
- 
+  "homepage": "https://github.com/disneyfan9184/Javascript-Async#readme",
+  "dependencies": {}
 }
